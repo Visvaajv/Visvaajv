@@ -1,5 +1,7 @@
 👋 Hi there, I'm Visvaa J!
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
