@@ -1,5 +1,6 @@
-## Hi there 👋
+👋 Hi there, I'm Visvaa J!
 
+![](https://komarev.com/ghpvc/?username=Visvaajv&color=blue)
 <!--
 **Visvaajv/Visvaajv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
