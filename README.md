@@ -20,12 +20,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Visvaajv&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Visvaajv&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 🚀 Let's Collaborate!
 
 I believe every project, role, and experience is an opportunity to **learn**, **collaborate**, and **grow**.  
 If you're into **design**, **development**, **student empowerment**, or simply want to connect with someone who thrives at the intersection of **tech and purpose**, **let’s team up and build something impactful together!** 🌟
+
+---
+[![](https://visitcount.itsvg.in/api?id=Visvaajv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
