@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi there, I'm **Visvaa J**!
-![](https://komarev.com/ghpvc/?username=Visvaajv&color=cyan)
+👋 Hi there, I'm **Visvaa J**!<br>
+![](https://komarev.com/ghpvc/?username=Visvaajv&color=black)<br>
 <br><br>🔭 I’m currently working on  <br>Crafting user-centric **UI/UX designs**, building responsive **full-stack projects**, and exploring **AI/ML** applications and **Data Analytics & Visualization** to uncover insights.<br><br>👯 I’m looking to collaborate on  <br>Innovative full-stack projects, AI/ML experiments, data-driven applications, and initiatives that merge design with impactful technology solutions.<br><br>🌱 I’m currently learning  <br>**Java Full Stack Development**, mastering **Data Structures & Algorithms**, diving into Data Analytics & Visualizations, and exploring how AI/ML algorithms can be applied to real-world challenges.<br><br>💬 Ask me about  <br>UI/UX design, front-end development, Data Analysis, student leadership, organizing tech events, or how to lead and scale impactful tech communities!<br><br>⚡ Fun fact  <br>I design like a perfectionist, code like a caffeinated squirrel, and lead clubs like I’m running a startup—because sleep is just a myth during final year. 😄🚀
 
 
